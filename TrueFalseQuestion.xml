@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question type="truefalse">
+  <name>
+    <text>Question simple mais trompeuse</text>
+  </name>
+  <questiontext format="html">
+    <text>Cette question est-elle bien faite ?</text>
+  </questiontext>
+  <answer fraction="100">
+    <text>Oui</text>
+    <feedback><text>Bravo !</text></feedback>
+  </answer>
+  <answer fraction="0">
+    <text>Non</text>
+    <feedback><text>Comme c'est embarrassant</text></feedback>
+  </answer>
+</question>
